@@ -20,7 +20,8 @@ Execute the program
 <title>TIME TABLE</title>
 </head>
 
-<body>
+<body ><center><IMG src="C:\Users\SEC\timetable\logo.png"; style="border:5px solid black" width="1000"
+height="200" ></center><br>
    <table border = "1" cellspacing="2" bordercolor="GREEN" >
      <tr>
         <th colspan ="8">TIME TABLE</th>
@@ -119,4 +120,4 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![output](./output.png)
+![output](./output%20timtable.png)
