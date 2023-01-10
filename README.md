@@ -120,4 +120,4 @@ height="200" ></center><br>
 </html>
 ```
 # OUTPUT
-![output](./output%20timtable.png)
+![output](outputtimtable.png)
