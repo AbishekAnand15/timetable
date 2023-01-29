@@ -121,3 +121,6 @@ height="200" ></center><br>
 ```
 # OUTPUT
 ![output](outputtimtable.png)
+
+# RESULT
+Thus,The timetable has been created
